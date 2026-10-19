@@ -1,6 +1,6 @@
 cask "stop-typing-app" do
-  version "1.0.3"
-  sha256 "7b6033e2458eda6f39c87067f2d88228398efe9399a23be8bd37976e3090b0cd"
+  version "1.0.4"
+  sha256 "5e1b5469d0257681286f3dd2964d6003b6e1a9e0ffc6ebd9b2262e6f49418f86"
 
   url "https://github.com/kevintraver/stop-typing-app/releases/download/v#{version}/StopTypingApp-#{version}.dmg"
   name "Stop Typing App"
